@@ -1,4 +1,4 @@
-﻿# Lambda Chi Alpha Website for BGSU during school year of Fall 2018 - Spring 2019.
+﻿# Lambda Chi Alpha Website at BGSU during school year of Fall 2018 - Spring 2019.
 
 BGlambdaChi.com
 
