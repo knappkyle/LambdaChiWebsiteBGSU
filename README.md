@@ -20,4 +20,5 @@ Made for my fraternity during my term as president to promote Lambda Chi Alpha. 
 ## Languages/Tools
 
 Languages: HTML, CSS, Javascript, C++.
+
 Tools: JQuery, MailChimp, Visual Studio 2017.
